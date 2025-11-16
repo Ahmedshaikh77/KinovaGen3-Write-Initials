@@ -29,3 +29,11 @@ Have four terminals open all connected to the docker
   - colcon build --symlink-install
   - source install/setup.bash
   - ros2 run midterm_initials draw_initials
+
+<img width="581" height="474" alt="Screenshot 2025-10-12 at 3 58 36 PM" src="https://github.com/user-attachments/assets/042c55d2-1e8c-45a9-a07a-aea36fd825ba" />
+
+
+![IMG_0588](https://github.com/user-attachments/assets/917045f6-5421-43e5-a1a9-0bc5de7ad8bd)
+
+https://github.com/user-attachments/assets/15fa1ca4-7764-486b-971b-5368cc5f26cd
+
