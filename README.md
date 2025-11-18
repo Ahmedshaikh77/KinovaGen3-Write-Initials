@@ -37,5 +37,13 @@ Have four terminals open all connected to the docker
 
 ![IMG_0588](https://github.com/user-attachments/assets/917045f6-5421-43e5-a1a9-0bc5de7ad8bd)
 
+## Simulation
 https://github.com/user-attachments/assets/15fa1ca4-7764-486b-971b-5368cc5f26cd
+
+## Physical Implementation 
+
+
+
+
+https://github.com/user-attachments/assets/6260141f-7540-4a92-ad2a-8a35dc782ab7
 
