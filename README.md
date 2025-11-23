@@ -28,7 +28,7 @@ Have four terminals open all connected to the docker
 - In terminal 4 in the ros2 workspace run the draw_initials task
   - colcon build --symlink-install
   - source install/setup.bash
-  - ros2 run midterm_initials draw_initials
+  - ros2 run initials_initials draw_initials
 
 
 ## Image
